@@ -1,5 +1,5 @@
 # TO DO List
-single HTML page displaying the TO DO List. That  have the following features.
+HTML page displaying the TO DO List. That  have the following features.
 - Each To-Do in the list consist of To-Do Label and To-Do Priority.
 - User should also be able to perform the CRUD operations over the ToDo List.
 - User should be able to use pagination switch between the To-Do list.
